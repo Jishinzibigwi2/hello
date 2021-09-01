@@ -12,6 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("Jean de Dieu Ishinzibigwi!\n");
+  printf("Integrated Science")
 
   return 0;
 }
